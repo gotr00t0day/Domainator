@@ -31,3 +31,12 @@ Dork: org:"Organization" NET:IP/Range
 
 ```
 
+# Masscan
+
+```bash
+
+Using masscan to scan the ip ranges to find services and new assets..
+
+Command:   masscan -p80,443,8080,8443 IP/Range --rate=10000
+
+```
