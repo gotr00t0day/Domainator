@@ -21,3 +21,13 @@ python3 domainator.py target.com
 
 ```
 
+# Shodan
+
+```bash
+
+Domainator will extract ip ranges from subdomains, you can use these ip ranges to find assets in shodan.io
+
+Dork: org:"Organization" NET:IP/Range
+
+```
+
