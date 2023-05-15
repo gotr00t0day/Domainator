@@ -9,6 +9,13 @@ git clone https://github.com/gotr00t0day/Domainator.git
 
 cd Domainator
 
-python3 domainator.py organization.com
+```
+
+# Usage
+
+```bash
+
+python3 domainator.py target.com
 
 ```
+
