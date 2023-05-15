@@ -5,6 +5,14 @@ import socket
 import whois
 
 
+"""
+
+DOMINATIOR V0.1
+By c0d3Ninja
+
+"""
+
+
 target = sys.argv[1]
 
 def domain_info(domain: str) -> str:
